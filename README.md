@@ -25,9 +25,9 @@ Zenity Tree Email is a lightweight Linux AppImage that helps you create visual s
 👉 [Download Latest .AppImage Release]
 OR From itch.io https://joshuakay.itch.io/structure-emailer
 
-
 Make the AppImage executable:
-
 ```bash
 chmod +x Zenity_Tree_Email-x86_64.AppImage
 ./Zenity_Tree_Email-x86_64.AppImage
+
+🙏 Enjoy the app? Support development on BuyMeACoffee
