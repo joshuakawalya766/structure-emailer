@@ -27,7 +27,7 @@ OR From itch.io https://joshuakay.itch.io/structure-emailer
 
 🙏 Enjoy the app? Support development on BuyMeACoffee (link coming soon) 
 or support my youtube channel 
-shorturl.at/wAU36
+https://youtu.be/coQ60wnwu44
 
 Make the AppImage executable:
 ```bash
